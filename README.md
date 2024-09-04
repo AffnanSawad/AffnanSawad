@@ -32,8 +32,3 @@ A passionate learner diving into the world of MERN stack development. Currently 
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=NafizUddin&" alt="Affnan Sawad" />
 </p>
 
-<p align="center">&nbsp;<img width="70%" src="https://github-readme-stats.vercel.app/api?username=NafizUddin&show_icons=true&locale=en" alt="Affnan Sawad" /></p>
-
-<p align="center"><img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=NafizUddin&show_icons=true&locale=en&layout=compact" alt="Affnan Sawad" /></p>
-
-
