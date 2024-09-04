@@ -33,3 +33,7 @@ A passionate learner diving into the world of MERN stack development. Currently 
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=AffnanSawad&" alt="Affnan Sawad" />
 </p>
 
+<p align="center">&nbsp;<img width="70%" src="https://github-readme-stats.vercel.app/api?username=AffnanSawad&show_icons=true&locale=en" alt="AffnanSawad" /></p>
+
+<p align="center"><img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AffnanSawad&show_icons=true&locale=en&layout=compact" alt="AffnanSawad" /></p>
+
