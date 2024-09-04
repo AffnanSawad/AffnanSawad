@@ -29,6 +29,6 @@ A passionate learner diving into the world of MERN stack development. Currently 
 ## 📝Current Statistics
 <br/>
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=NafizUddin&" alt="Affnan Sawad" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=AffnanSawad&" alt="Affnan Sawad" />
 </p>
 
