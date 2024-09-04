@@ -13,7 +13,7 @@ A passionate learner diving into the world of MERN stack development. Currently 
 - 💬 Ask me about best practices in MERN stack development, or any challenges you might be facing in setting up a full-stack web application. 
 - 📫 How to reach me: You can connect with me on Facebook ([https://www.facebook.com/Affnan.sawad]) or drop me an email at affnansawad2002@gmail.com. 
 - ⚡ Fun fact:  Apart from my MERN stack endeavors, I'm an enthusiastic Cricketer and have played as a bowler for a society team.
-- :) My goal is to master full-stack development and contribute to open-source projects & develop scalable, secure, and user-friendly applications.
+- 🌱 My goal is to master full-stack development and contribute to open-source projects & develop scalable, secure, and user-friendly applications.
 
 ## 📝Language and Tools
 <br/>
