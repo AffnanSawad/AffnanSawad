@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Affnan Sawad
 
-A passionate learner diving into the world of MERN stack development. Currently navigating the intricacies of React, MongoDB, Express.js and Node.js, I'm on a quest to master the art of building dynamic web applications. Fueled by a passion for problem-solving and a commitment to continuous learning, I'm turning lines of code into functional, elegant solutions.
+I’m a MERN Stack Developer passionate about crafting innovative, user-centric web applications. With expertise in MongoDB, Express, React, and Node.js, I’m dedicated to building scalable, clean, and efficient solutions. Constantly exploring and learning new technologies to enhance my skills and deliver exceptional digital experiences!
 
 
 ## 📝Current overview
