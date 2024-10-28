@@ -8,7 +8,8 @@ I’m a MERN Stack Developer passionate about crafting innovative, user-centric 
 ## 📝Current overview
 
 - 🌱 I’m currently learning advanced React concepts, Next.js and exploring ways to optimize backend performance in my MERN projects. 
-- 👯 I’m looking to collaborate on open source projects related to web development or any interesting MERN stack projects that involve innovative solutions. 
+- 👯 I’m looking to collaborate on open source projects related to web development or any interesting MERN stack projects that involve innovative solutions.
+- ⚡Currently I'm diving into TypeScript, Next.js, MySQL, PostgreSQL, AWS, and more to sharpen my skills and build a stronger career foundation.
 - 🤔 I’m looking for help with with optimizing database queries and enhancing the user experience in my MERN stack applications. 
 - 💬 Ask me about best practices in MERN stack development, or any challenges you might be facing in setting up a full-stack web application. 
 - 📫 How to reach me: You can connect with me on Facebook ([https://www.facebook.com/Affnan.sawad]) or drop me an email at affnansawad2002@gmail.com. 
