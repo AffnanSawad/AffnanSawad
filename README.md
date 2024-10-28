@@ -12,9 +12,9 @@ I’m a MERN Stack Developer passionate about crafting innovative, user-centric 
 - ⚡Currently I'm diving into TypeScript, Next.js, MySQL, PostgreSQL, AWS, and more to sharpen my skills and build a stronger career foundation.
 - 🤔 I’m looking for help with with optimizing database queries and enhancing the user experience in my MERN stack applications. 
 - 💬 Ask me about best practices in MERN stack development, or any challenges you might be facing in setting up a full-stack web application. 
-- 📫 How to reach me: You can connect with me on Facebook ([https://www.facebook.com/Affnan.sawad]) or drop me an email at affnansawad2002@gmail.com. 
+- 📫 How to reach me: You can connect with me on Facebook ([https://www.facebook.com/Affnan.sawad]) or drop me an email at affnansawad2002@gmail.com
 - ⚡ Fun fact:  Apart from my MERN stack endeavors, I'm an enthusiastic Cricketer and have played as a bowler for a society team.
-- 🌱 My goal is to master full-stack development and contribute to open-source projects & develop scalable, secure, and user-friendly applications.
+- 🌱 My ultimate goal is to master in Full Stack Development, continually expanding my skills to stay at the forefront of the field
 
 ## 📝Language and Tools
 <br/>
