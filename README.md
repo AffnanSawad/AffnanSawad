@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Affnan Sawad
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+MD+ARAFAT+KOYES!" alt="Hi there 👋, I'm Affnan Sawad" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+Hi there 👋, I'm Affnan Sawad" alt="Hi there 👋, I'm Affnan Sawad" />
 </p>
 
 I’m a MERN Stack Developer passionate about crafting innovative, user-centric web applications. With expertise in MongoDB, Express, React, and Node.js, I’m dedicated to building scalable, clean, and efficient solutions. Constantly exploring and learning new technologies to enhance my skills and deliver exceptional digital experiences!
