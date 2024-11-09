@@ -1,6 +1,9 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
 # Hi there 👋, I'm Affnan Sawad
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+MD+ARAFAT+KOYES!" alt="Hi there 👋, I'm Affnan Sawad" />
+</p>
 
 I’m a MERN Stack Developer passionate about crafting innovative, user-centric web applications. With expertise in MongoDB, Express, React, and Node.js, I’m dedicated to building scalable, clean, and efficient solutions. Constantly exploring and learning new technologies to enhance my skills and deliver exceptional digital experiences!
 
