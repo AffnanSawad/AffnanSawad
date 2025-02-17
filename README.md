@@ -1,34 +1,55 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3455eb&center=true&vCenter=true&width=940&lines=Hey%2C+🌟 Welcome to my coding space — 🚀✨" alt="🌟 Welcome to my coding space- 🚀✨" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3455eb&center=true&vCenter=true&width=940&lines=Hey%2C+🌟+Welcome+to+my+coding+space+—+🚀✨" alt="🌟 Welcome to my coding space — 🚀✨" />
 </p>
-
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
-
-<h1 align="center"> Hi there 👋, I'm Affnan Sawad </h1>
 
 <p align="center">
-  <i>A passionate MERN Stack Developer crafting scalable and user-centric web applications.</i>
+  <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" />
 </p>
+
+---
+
+# 👋 Hi there, I'm **Affnan Sawad**  
+
+🚀 **Full-Stack Developer | MERN Stack Enthusiast | Tech Explorer**  
+
+🔹 Passionate about **building scalable, efficient, and user-friendly applications**  
+🔹 **Experienced in MERN Stack** (MongoDB, Express, React, Node.js)  
+🔹 Constantly **exploring new technologies** to enhance my development skills  
 
 ---
 
 ## 🚀 About Me
 
-🔹 **MERN Stack Developer** with expertise in **MongoDB, Express, React, and Node.js**  
-🔹 Passionate about **building efficient, scalable, and user-friendly applications**  
-🔹 Always **exploring & learning new technologies** to stay at the forefront of development  
-
-### 🛠 Currently Working On:
-- **🌱 Learning:** Advanced React, Next.js, TypeScript, MySQL, PostgreSQL, AWS  
-- **💡 Exploring:** Backend performance optimization & database query optimization  
-- **🤝 Open to Collaboration:** Exciting MERN Stack & open-source projects  
+- 🌱 **Currently Learning:** Advanced React, Next.js, TypeScript, MySQL, PostgreSQL, AWS  
+- 🔥 **Exploring:** Performance optimization & database query efficiency  
+- 🤝 **Looking to Collaborate:** Exciting MERN Stack & open-source projects  
+- 💬 **Ask me about:** Best practices in **MERN stack development**  
+- 📫 **Reach me at:** [Email](mailto:affnansawad2002@gmail.com) | [Facebook](https://www.facebook.com/Affnan.sawad)  
+- ⚡ **Fun Fact:** Apart from coding, I'm a **passionate cricketer** and have played as a bowler for a society team!  
 
 ---
 
 ## 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,bootstrap,js,ts,react,next,nodejs,express,mongodb,mysql,firebase,figma,postgres,prisma" />
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
+  <br />
+
+  <!-- Frontend Technologies -->
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,next" />
+  <br />
+
+  <!-- Backend & Database -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
+  <br />
+
+  <!-- DevOps & Tools -->
+  <img src="https://skillicons.dev/icons?i=firebase,git,docker,aws,figma" />
+  <br />
+
+  <!-- DaisyUI (Manually Added) -->
+  <img src="https://daisyui.com/favicon.ico" alt="DaisyUI" width="50" height="50" />
 </p>
 
 ---
@@ -49,7 +70,7 @@
 
 ---
 
-## 🌍 Connect with Me
+## 🌍 Connect with Me  
 
 <p align="center">
   <a href="https://www.facebook.com/Affnan.sawad"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"></a>
