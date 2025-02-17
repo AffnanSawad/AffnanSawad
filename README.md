@@ -28,7 +28,7 @@
 ## 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,next,nodejs,express,mongodb,mysql,firebase,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,daisyui,js,ts,react,next,nodejs,express,mongodb,mysql,firebase,figma" />
 </p>
 
 ---
