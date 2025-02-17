@@ -32,23 +32,7 @@
 ## 🛠 Tech Stack & Tools
 
 <p align="center">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
-  <br />
-
-  <!-- Frontend Technologies -->
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,next" />
-  <br />
-
-  <!-- Backend & Database -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
-  <br />
-
-  <!-- DevOps & Tools -->
-  <img src="https://skillicons.dev/icons?i=firebase,git,docker,aws,figma" />
-  <br />
-
-  <!-- DaisyUI (Manually Added) -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,bootstrap,js,ts,react,next,nodejs,express,mongodb,mysql,postgres,firebase,figma,git,docker,aws" />
   <img src="https://daisyui.com/favicon.ico" alt="DaisyUI" width="50" height="50" />
 </p>
 
