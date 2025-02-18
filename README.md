@@ -32,7 +32,7 @@
 ## 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,bootstrap,js,ts,react,next,nodejs,express,mongodb,mysql,postgres,firebase,figma,git,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,bootstrap,js,ts,react,next,nodejs,express,mongodb,mysql,firebase,figma,git" />
  
 </p>
 
