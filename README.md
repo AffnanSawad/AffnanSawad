@@ -10,7 +10,7 @@
 
 # 👋 Hi there, I'm **Affnan Sawad**  
 
-🚀 **Full-Stack Developer | MERN Stack Enthusiast | Tech Explorer**  
+🚀 **Frontend Developer | MERN Stack Enthusiast | UI Specialist**
 
 🔹 Passionate about **building scalable, efficient, and user-friendly applications**  
 🔹 **Experienced in MERN Stack** (MongoDB, Express, React, Node.js)  
@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-- 🌱 **Currently Learning:** Advanced React, Next.js, TypeScript, MySQL, PostgreSQL, AWS  
+- 🌱 **Currently Learning:** Advanced React, Next.js, TypeScript, MySQL, PostgreSQL.  
 - 🔥 **Exploring:** Performance optimization & database query efficiency  
 - 🤝 **Looking to Collaborate:** Exciting MERN Stack & open-source projects  
 - 💬 **Ask me about:** Best practices in **MERN stack development**  
