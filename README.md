@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-- 🌱 **Currently Learning:** Advanced React, Next.js, TypeScript, MySQL, PostgreSQL.  
+- 🌱 **Currently Learning:** Advanced React, Next.js, TypeScript, Next JS , Redux etc.  
 - 🔥 **Exploring:** Performance optimization & database query efficiency  
 - 🤝 **Looking to Collaborate:** Exciting MERN Stack & open-source projects  
 - 💬 **Ask me about:** Best practices in **MERN stack development**  
