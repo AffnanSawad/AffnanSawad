@@ -1,4 +1,4 @@
-p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3455eb&center=true&vCenter=true&width=940&lines=Hey%2C+🌟+Welcome+to+my+coding+space+—+🚀✨" alt="🌟 Welcome to my coding space — 🚀✨" />
 </p>
 
