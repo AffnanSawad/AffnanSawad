@@ -1,12 +1,8 @@
 <h1 align="center">Affnan Sawad</h1>
 <p align="center"><strong>Frontend Developer | MERN Stack Enthusiast | UI/UX Learner</strong></p>
 
-<p align="center">
-  <a href="mailto:affnansawad2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.facebook.com/Affnan.sawad"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/iamaffnan_sawad"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
----
+
+
 
 ### 💡 About Me
 
