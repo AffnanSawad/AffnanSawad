@@ -1,73 +1,65 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1500&color=2D9CDB&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Affnan+Sawad+👋;Frontend+Developer+%7C+MERN+Stack+Enthusiast;Clean+Code+%2B+Great+UI+%3D+🚀;Welcome+to+my+coding+space!" />
-</p>
+# 👋 Hey, I'm **Affnan Sawad**
 
-<!-- GIF / Image -->
+### 🚀 Full Stack Developer | MERN Stack Enthusiast | UI/UX Focused 
+
+---
+
+### 💡 About Me
+
+Hi! I'm Affnan Sawad, a passionate Full Stack Developer pursuing a B.Sc. in CSE at IIUC. I started my journey in web development in **January 2024** and have been building intuitive, efficient, and responsive applications ever since.
+
+- 🧠 **Currently Learning:** Advanced React, Next.js, Redux Toolkit, TypeScript, Prisma, GraphQL  
+- 🔍 **Exploring:** Backend architecture, performance optimization, and advanced database queries  
+- 🤝 **Open to Collaborate:** MERN Stack projects, full-stack apps, and open-source contributions  
+- 💬 **Ask Me About:** Frontend best practices, full-stack development workflows, and UI/UX tips  
+- ⚾ **Fun Fact:** I'm a passionate **cricketer** – played as a bowler for a community team!
+
+---
+
+### 🛠️ Tech Stack & Tools
+
 <p align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" width="300px" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,bootstrap,js,ts,react,nextjs,redux,nodejs,express,mongodb,mysql,postgresql,firebase,figma,graphql,prisma,vite,vercel,git,github" />
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
-
-I'm **Affnan Sawad**, a passionate **Frontend Developer** with a strong foundation in the **MERN Stack**. I love building scalable, visually stunning, and user-friendly web applications.  
-
-- 🎓 CSE student at **IIUC**
-- 🌐 Exploring: `Next.js`, `Redux`, `TypeScript`, `PostgreSQL`
-- ⚙️ Specializing in: Frontend Design & Full-Stack Integration
-- 🏏 Fun Fact: I'm a cricketer & frontend perfectionist 🎯
-
----
-
-## 🛠️ Tech Stack
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,redux,nodejs,express,mongodb,mysql,firebase,figma,git,github,vscode" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AffnanSawad&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AffnanSawad&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AffnanSawad&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 💼 Highlight Projects
-
-### 🔹 [Car Fusion LTD](https://github.com/AffnanSawad/car-fusion-client)
-MERN | Admin Dashboard | JWT | Stripe  
-💡 A platform to book, buy, and sell cars. Secure login, dashboards, payments, and service listings.
-
-### 🔹 [Bistro Boss](https://github.com/AffnanSawad/bistro-boss-client)
-React | Firebase | Stripe | Dark Mode  
-🍴 Online restaurant ordering system with role-based access, user history, and admin controls.
-
-### 🔹 [Royal Enfield BD](https://github.com/AffnanSawad/royal-enfield-client)
-React | MongoDB | Firebase  
-🏍️ Branded bike showroom with booking, brand-wise listing, and user dashboard.
-
----
-
-## 📊 GitHub Stats
+### 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AffnanSawad&theme=github-dark-blue&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AffnanSawad&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AffnanSawad&layout=compact&theme=github_dark&hide_border=true" width="40%" />
+  <a href="https://www.facebook.com/Affnan.sawad" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/iamaffnan_sawad" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:affnansawad2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🌍 Connect with Me
+### 🧑‍💻 My Motto
 
-<p align="center">
-  <a href="mailto:affnansawad2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.facebook.com/Affnan.sawad"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/iamaffnan_sawad"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+> “Code with purpose. Design with passion. Learn with curiosity.”  
+> — Affnan Sawad
 
 ---
 
-<p align="center">
-  <i>“Designing smooth experiences with clean code and modern UI is my superpower.”</i>
-</p>
