@@ -1,28 +1,27 @@
-<!-- Header Banner -->
+<!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1500&color=3F78E0&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Affnan+Sawad+👋;A+Frontend+Developer+%7C+MERN+Stack+Learner;Welcome+to+my+Tech+Universe+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1500&color=2D9CDB&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Affnan+Sawad+👋;Frontend+Developer+%7C+MERN+Stack+Enthusiast;Clean+Code+%2B+Great+UI+%3D+🚀;Welcome+to+my+coding+space!" />
 </p>
 
-<!-- Profile Image -->
+<!-- GIF / Image -->
 <p align="center">
   <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" width="300px" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🙋‍♂️ About Me
 
-I'm **Affnan Sawad**, a passionate Frontend Developer from Bangladesh who loves to craft elegant and performant web applications using modern tools.  
-I specialize in the **MERN Stack**, with a strong focus on frontend UI/UX, and I’m continuously learning to stay up-to-date with industry standards.
+I'm **Affnan Sawad**, a passionate **Frontend Developer** with a strong foundation in the **MERN Stack**. I love building scalable, visually stunning, and user-friendly web applications.  
 
-- 🎓 CSE Student at IIUC | 4th Semester  
-- 🛠 Currently Learning: `Next.js`, `TypeScript`, `Redux`, `Prisma`, `PostgreSQL`  
-- 🤝 Actively seeking: **Junior Developer** roles or collaborative open-source projects  
-- ⚽ Fun Fact: I'm a competitive cricketer & love solving UI problems like puzzles!  
+- 🎓 CSE student at **IIUC**
+- 🌐 Exploring: `Next.js`, `Redux`, `TypeScript`, `PostgreSQL`
+- ⚙️ Specializing in: Frontend Design & Full-Stack Integration
+- 🏏 Fun Fact: I'm a cricketer & frontend perfectionist 🎯
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,redux,nodejs,express,mongodb,mysql,firebase,figma,git,github,vscode" />
@@ -30,36 +29,36 @@ I specialize in the **MERN Stack**, with a strong focus on frontend UI/UX, and I
 
 ---
 
-## 📌 Featured Projects
+## 💼 Highlight Projects
 
-### 🔹 [Car Fusion LTD](https://github.com/AffnanSawad/car-fusion-client)  
-**MERN Stack Project** | JWT Auth | Admin Dashboard | Stripe Payment  
-🔧 A full-featured car selling & servicing platform with user and admin portals.
+### 🔹 [Car Fusion LTD](https://github.com/AffnanSawad/car-fusion-client)
+MERN | Admin Dashboard | JWT | Stripe  
+💡 A platform to book, buy, and sell cars. Secure login, dashboards, payments, and service listings.
 
-### 🔹 [Bistro Boss](https://github.com/AffnanSawad/bistro-boss-client)  
-**Restaurant Ordering App** | Stripe | Firebase | Dark Mode  
-🍽️ Clean UI, CRUD menu management, role-based access.
+### 🔹 [Bistro Boss](https://github.com/AffnanSawad/bistro-boss-client)
+React | Firebase | Stripe | Dark Mode  
+🍴 Online restaurant ordering system with role-based access, user history, and admin controls.
 
-### 🔹 [Royal Enfield BD](https://github.com/AffnanSawad/royal-enfield-client)  
-**React & Firebase Project** | Brand Showcase  
-🏍️ Showcases bikes by brand with booking and user dashboard.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AffnanSawad&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AffnanSawad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AffnanSawad&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
+### 🔹 [Royal Enfield BD](https://github.com/AffnanSawad/royal-enfield-client)
+React | MongoDB | Firebase  
+🏍️ Branded bike showroom with booking, brand-wise listing, and user dashboard.
 
 ---
 
-## 🌐 Connect with Me
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AffnanSawad&theme=github-dark-blue&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AffnanSawad&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AffnanSawad&layout=compact&theme=github_dark&hide_border=true" width="40%" />
+</p>
+
+---
+
+## 🌍 Connect with Me
 
 <p align="center">
   <a href="mailto:affnansawad2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -69,4 +68,6 @@ I specialize in the **MERN Stack**, with a strong focus on frontend UI/UX, and I
 
 ---
 
-<p align="center"><i>"Code is not just lines — it's how you design experiences. I build with precision, polish, and performance."</i></p>
+<p align="center">
+  <i>“Designing smooth experiences with clean code and modern UI is my superpower.”</i>
+</p>
