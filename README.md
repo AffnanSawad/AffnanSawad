@@ -18,7 +18,7 @@ Hi! I'm Affnan Sawad, a passionate Full Stack Developer pursuing a B.Sc. in CSE 
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,bootstrap,js,ts,react,nextjs,redux,nodejs,express,mongodb,mysql,postgresql,firebase,figma,graphql,prisma,vite,vercel,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,bootstrap,js,ts,react,nextjs,redux,nodejs,express,mongodb,mysql,postgresql,firebase,figma,graphql,prisma,vite,vercel,netlify,git,github,vscode" />
 </p>
 
 ---
