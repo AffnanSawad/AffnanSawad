@@ -7,11 +7,11 @@
 
 Hi! I'm Affnan Sawad, a passionate Full Stack Developer pursuing a B.Sc. in CSE at IIUC. I started my journey in web development in **January 2024** and have been building intuitive, efficient, and responsive applications ever since.
 
-- 🧠 **Currently Learning:** Advanced React, Next.js, Redux Toolkit, TypeScript, Prisma, GraphQL  
-- 🔍 **Exploring:** Backend architecture, performance optimization, and advanced database queries  
-- 🤝 **Open to Collaborate:** MERN Stack projects, full-stack apps, and open-source contributions  
-- 💬 **Ask Me About:** Frontend best practices, full-stack development workflows, and UI/UX tips  
-- ⚾ **Fun Fact:** I'm a passionate **cricketer** – played as a bowler for a community team!
+- 🧠 **Currently Learning:** Advanced Frontend and Backend Technologies .
+- 🔍 **Exploring:** Backend architecture, performance optimization, and advanced database queries . 
+- 🤝 **Open to Collaborate:** MERN Stack projects, full-stack apps, and open-source contributions .
+- 💬 **Ask Me About:** Frontend best practices, full-stack development workflows, and UI/UX tips .
+- ⚾ **Fun Fact:** I'm a passionate **cricketer** – played as a bowler for a community team! .
 
 ---
 
