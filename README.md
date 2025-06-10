@@ -1,5 +1,5 @@
-## <h1 align="center">Affnan Sawad</h1>
-### <p align="center"><strong>Frontend Developer | MERN Stack Enthusiast | UI/UX Learner</strong></p>
+##   👋 <h1 align="center">Affnan Sawad</h1>
+### 🚀 <p align="center"><strong>Frontend Developer | MERN Stack Enthusiast | UI/UX Learner</strong></p>
 
 ---
 
