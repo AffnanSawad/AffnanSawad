@@ -16,13 +16,13 @@ Hi! I'm Affnan Sawad, a passionate Full Stack Developer currently pursuing a B.S
 
 ### 🧠 Skills & Technologies
 
-- **Languages:** C, C++, JavaScript, TypeScript, HTML, CSS  
-- **Frontend:** React.js, Next.js, Redux Toolkit, Tailwind CSS, Bootstrap  
-- **Backend:** Node.js, Express.js, REST APIs, JWT, Firebase Auth  
-- **Database:** MongoDB, MySQL, PostgreSQL, Prisma  
-- **Tools & DevOps:** Git, GitHub, VS Code  
-- **Deployment & Hosting:** Vercel, Netlify, Firebase  
-- **Others:** Stripe, GraphQL, Figma
+- **Languages:** C, C++, JavaScript, TypeScript, HTML, CSS.
+- **Frontend:** React.js, Next.js, Redux Toolkit, Tailwind CSS, Bootstrap.
+- **Backend:** Node.js, Express.js, REST APIs, JWT, Firebase Auth.
+- **Database:** MongoDB, MySQL, PostgreSQL, Prisma. 
+- **Tools & DevOps:** Git, GitHub, VS Code.
+- **Deployment & Hosting:** Vercel, Netlify, Firebase. 
+- **Others:** Stripe, GraphQL, Figma.
 
 ---
 
