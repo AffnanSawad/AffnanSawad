@@ -1,21 +1,32 @@
-##   <h1 align="center">  👋 Affnan Sawad</h1>
-###  <p align="center"><strong> 🚀 Frontend Developer | MERN Stack Enthusiast | UI/UX Learner</strong></p>
+## <h1 align="center">👋 Affnan Sawad</h1>
+### <p align="center"><strong>🚀 Frontend Developer | MERN Stack Enthusiast | UI/UX Learner</strong></p>
 
 ---
 
 ### 💡 About Me
 
-Hi! I'm Affnan Sawad, a passionate Full Stack Developer pursuing a B.Sc. in CSE at IIUC. I started my journey in web development in **January 2024** and have been building intuitive, efficient, and responsive applications ever since.
+Hi! I'm Affnan Sawad, a passionate Full Stack Developer currently pursuing a B.Sc. in CSE at IIUC. I began my journey in web development in **January 2024** and have been creating intuitive and responsive full-stack applications ever since.
 
-- 🧠 **Currently Learning:** Advanced Frontend and Backend Technologies .
-- 🔍 **Exploring:** Backend architecture, performance optimization, and advanced database queries . 
-- 🤝 **Open to Collaborate:** MERN Stack projects, full-stack apps, and open-source contributions .
-- 💬 **Ask Me About:** Frontend best practices, full-stack development workflows, and UI/UX tips .
-- ⚾ **Fun Fact:** I'm a passionate **cricketer** – played as a bowler for a community team! .
+- 🧠 **Learning & Exploring:** Backend architecture, performance optimization, and advanced database design.
+- 🤝 **Open to Collaborate:** MERN stack projects, full-stack applications, and open-source contributions.
+- 💬 **Ask Me About:** Frontend best practices, full-stack development workflows, and UI/UX design tips.
+- ⚾ **Fun Fact:** I'm a dedicated **cricketer** — played as a bowler for a local community team!
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🧠 Skills & Technologies
+
+- **Languages:** C, C++, JavaScript, TypeScript, HTML, CSS  
+- **Frontend:** React.js, Next.js, Redux Toolkit, Tailwind CSS, Bootstrap  
+- **Backend:** Node.js, Express.js, REST APIs, JWT, Firebase Auth  
+- **Database:** MongoDB, MySQL, PostgreSQL, Prisma  
+- **Tools & DevOps:** Git, GitHub, VS Code  
+- **Deployment & Hosting:** Vercel, Netlify, Firebase  
+- **Others:** Stripe, GraphQL, Figma
+
+---
+
+### 🎯 Tech Stack Visual Overview
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,bootstrap,js,ts,react,nextjs,redux,nodejs,express,mongodb,mysql,postgresql,prisma,graphql,firebase,git,github,figma,vite,vercel,netlify,vscode" />
@@ -48,7 +59,7 @@ Hi! I'm Affnan Sawad, a passionate Full Stack Developer pursuing a B.Sc. in CSE 
   <a href="https://www.instagram.com/iamaffnan_sawad" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:affnansawad2002@gmail.com">
+  <a href="mailto:affnansawad2002@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -59,6 +70,3 @@ Hi! I'm Affnan Sawad, a passionate Full Stack Developer pursuing a B.Sc. in CSE 
 
 > “Code with purpose. Design with passion. Learn with curiosity.”  
 > — Affnan Sawad
-
----
-
