@@ -6,7 +6,7 @@
 ### 💡 About Me
 
 Hi! I'm Affnan Sawad, a passionate Full Stack Developer currently pursuing a B.Sc. in CSE at IIUC. I began my journey in web development in **January 2024** and have been creating intuitive and responsive full-stack applications ever since.
-
+- **🖥️ See my portfolio at**  [(https://affnansawad.netlify.app/)](https://affnansawad.netlify.app/)
 - 🧠 **Learning & Exploring:** Backend architecture, performance optimization, and advanced database design.
 - 🤝 **Open to Collaborate:** MERN stack projects, full-stack applications, and open-source contributions.
 - 💬 **Ask Me About:** Frontend best practices, full-stack development workflows, and UI/UX design tips.
