@@ -1,6 +1,6 @@
 # <h1 align="center">👋 Affnan Sawad</h1>
 
-### <p align="center"><strong>Full Stack Developer | MERN Stack | UI/UX & SQA Enthusiast</strong></p>
+### <p align="center"><strong> Full Stack Developer | MERN Stack | UI/UX & SQA Enthusiast</strong></p>
 
 ---
 
@@ -28,26 +28,22 @@ I build **scalable, maintainable, and performant applications**. Passionate abou
 
 ---
 
-## 📊 GitHub Stats & Animated Fun
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AffnanSawad&show_icons=true&theme=radical&count_private=true&hide_border=true&hide_title=false&animation=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AffnanSawad&show_icons=true&theme=radical&count_private=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AffnanSawad&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&animation=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AffnanSawad&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AffnanSawad&layout=compact&theme=radical&hide_border=true&animation=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AffnanSawad&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AffnanSawad&theme=react-dark&hide_border=true&animation=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AffnanSawad&theme=radical&no-frame=true&margin-w=15&rank=SS, S, A, B, C, D&animation=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=AffnanSawad&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -56,16 +52,16 @@ I build **scalable, maintainable, and performant applications**. Passionate abou
 
 <p align="center">
   <a href="https://www.linkedin.com/in/affnan-sawad" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&animation=glow"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/Affnan.sawad" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black&animation=glow"/>
+    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/iamaffnan_sawad" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black&animation=glow"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:affnansawad2002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&animation=glow"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -73,5 +69,5 @@ I build **scalable, maintainable, and performant applications**. Passionate abou
 
 ## 🧑‍💻 Motto
 
-> <img src="https://c.tenor.com/XO3F5TrgGiwAAAAC/typing-coding.gif" width="25" /> “Code with purpose. Test with precision. Design with clarity. Learn with curiosity.”  
-> — Affnan Sawad
+> “Code with purpose. Test with precision. Design with clarity. Learn with curiosity.”  
+> — Affnan Sawad add beautifull animation on that
