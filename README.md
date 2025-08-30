@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Affnan Sawad
+# <h1 align="center">👋 Affnan Sawad</h1>
 
-### 🚀 Full Stack Developer | MERN Stack | UI/UX & SQA Enthusiast
+### <p align="center"><strong> Full Stack Developer | MERN Stack | UI/UX & SQA Enthusiast</strong></p>
 
 ---
 
