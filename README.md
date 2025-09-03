@@ -51,9 +51,7 @@ I build **scalable, maintainable, and performant applications**. Passionate abou
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/affnan-sawad" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+ 
   <a href="https://www.facebook.com/Affnan.sawad" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
@@ -70,4 +68,4 @@ I build **scalable, maintainable, and performant applications**. Passionate abou
 ## 🧑‍💻 Motto
 
 > “Code with purpose. Test with precision. Design with clarity. Learn with curiosity.”  
-> — Affnan Sawad add beautifull animation on that
+> — Affnan Sawad 
